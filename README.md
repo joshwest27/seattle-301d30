@@ -48,7 +48,7 @@ The subsequent portion of lecture will be focused on the introduction of new con
 
 ##### Preparation for Lab
 
-In weeks 1 and 2, we will open up the codebase in Atom and walk through the REVIEW and TODO items defined for that day in the starter code, making sure to read through each task description and paraphrase or discuss any confusing terminology.
+In weeks 1 and 2, we will open up the codebase in VS Code and walk through the REVIEW and TODO items defined for that day in the starter code, making sure to read through each task description and paraphrase or discuss any confusing terminology.
 
 In week 3, we will review the feature tasks and user stories for the lab assignment and discuss the way these tasks should be incorporated into the book app.
 
