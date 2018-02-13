@@ -1,3 +1,5 @@
+'use strict';
+
 //*****basic selectors*****//
 
 //element
