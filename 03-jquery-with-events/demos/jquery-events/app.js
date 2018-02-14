@@ -66,6 +66,6 @@ $('select[name="icecream"]').on('change', function() {
 })
 
 //DOM-ready function
-$(document).ready(function() {
+$(function() {
   $('.tab-content').hide()
 })
