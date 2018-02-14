@@ -34,3 +34,6 @@ ABCD:
 * [SQLBolt (Intro, Lessons 1-4, 13-18)](http://sqlbolt.com/)
 
 * [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
+
+* [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/) (Reference)
+
