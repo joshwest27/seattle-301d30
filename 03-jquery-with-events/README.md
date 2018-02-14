@@ -5,7 +5,10 @@
 
 *This class focuses on introducing the underlying concepts of jQuery-based events, event binding, event delegation, and effects.*
 
-## Daily Plan
+## Announcements
+
+* Reminder about due dates for learning journal assignments
+* Reminder about 401 Instructor Panel: tomorrow at 1:00 p.m. in the main event space
 
 
 ## Learning Objectives
