@@ -12,7 +12,7 @@ function Neighborhood(rawDataObject) {
 
 Neighborhood.prototype.toHtml = function() {
   // 1. Get the template from the HTML document
-
+  
   // 2. Use Handlebars to compile the HTML, returns a function
 
   // 3. Return the HTML from this method
