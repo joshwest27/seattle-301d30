@@ -2,6 +2,7 @@
 
 //nav handler
 $('nav a').on('click', function() {
+  let FADEIN_TIMEOUT = 750;
   let $whereToGo = $(this).data('tab');
   // what is $whereToGo
   //gives us 'delegation' or 'attributes'
@@ -9,7 +10,7 @@ $('nav a').on('click', function() {
   $('.tab-content').hide();
   // debugger;
   //we want $('#delegation')
-  $('#' + $whereToGo).fadeIn(750)
+  $('#' + $whereToGo).fadeIn(FADEIN_TIMEOUT)
 })
 
 //event logger
@@ -26,11 +27,11 @@ function logTarget() {
 
 //not delegated - event bound to all the 'li's
 //no selector specified in .on() method
-$('#menu1 li').on('click', logTarget)
+$('#menu1 li').on('click', logTarget);
 
 //delegated - event is bound to parent
 //'li' is specified in .on()
-$('#menu2').on('click', 'li', logTarget)
+$('#menu2').on('click', 'li', logTarget);
 
 //button handlers
 $('button[name=adder1]').on('click', function() {
