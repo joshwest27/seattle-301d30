@@ -33,7 +33,7 @@ ABCD:
 
 * [SQLBolt (Intro, Lessons 1-4, 13-18)](http://sqlbolt.com/)
 
-* [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
+* [A Primer on SQL](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition) (Reference, click the blue Download button)
 
 * [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/) (Reference)
 
