@@ -22,4 +22,4 @@ contactView.init = function () {
     }, err => {
       console.error(err);
     });
-}
+};

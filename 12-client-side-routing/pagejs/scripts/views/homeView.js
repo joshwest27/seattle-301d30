@@ -9,4 +9,4 @@ homeView.init = function () {
   $('#contacts').empty();
   $('body').css('background-color', 'blue');
   $('#content').text('Hello world from the Home page').css('color', 'white');
-}
+};
